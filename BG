@@ -100,28 +100,28 @@ function load3xScript()
                 Rotation=180}
         },
         {
-            time = 27, unit = "unit_rafflesia", slot = "2",
+            time = 22, unit = "unit_rafflesia", slot = "2",
             data = {Valid=true,PathIndex=3,Position=Vector3.new(-842.3812866210938, 62.18030548095703, -167.61415100097656),
                 DistanceAlongPath=180.53,
                 CF=CFrame.new(-842.381287,62.1803055,-162.012131,1,0,0,0,1,0,0,0,1),
                 Rotation=180}
         },
         {
-            time = 52, unit = "unit_rafflesia", slot = "2",
+            time = 47, unit = "unit_rafflesia", slot = "2",
             data = {Valid=true,PathIndex=3,Position=Vector3.new(-842.3812866210938, 62.18030548095703, -167.61415100097656),
                 DistanceAlongPath=178.04,
                 CF=CFrame.new(-842.381287,62.1803055,-164.507538,1,0,0,0,1,0,0,0,1),
                 Rotation=180}
         },
        {
-            time = 55, unit = "unit_rafflesia", slot = "2",
+            time = 50, unit = "unit_rafflesia", slot = "2",
             data = {Valid=true,PathIndex=3,Position=Vector3.new(-883.3809814453125, 62.18030548095703, -219.87277221679688),
                 DistanceAlongPath=178.04,
                 CF=CFrame.new(-842.381287,62.1803055,-164.507538,1,0,0,0,1,0,0,0,1),
                 Rotation=180}
         },
         {
-            time = 65, unit = "unit_rafflesia", slot = "2",
+            time = 60, unit = "unit_rafflesia", slot = "2",
             data = {Valid=true,PathIndex=2,Position=Vector3.new(-877.3748779296875, 62.18030548095703, -199.05203247070312),
                 DistanceAlongPath=100.65,
                 CF=CFrame.new(-864.724426,62.1803055,-199.052032,-0,0,1,0,1,0,-1,0,0),
