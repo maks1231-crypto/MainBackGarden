@@ -19,7 +19,7 @@ remotes.ChangeTickSpeed:InvokeServer(3)
 local difficulty = "dif_impossible"
 local placements = {
     {
-        time = 23, unit = "unit_lawnmower", slot = "1",
+        time = 27, unit = "unit_lawnmower", slot = "1",
         data = {
             Valid = true,
             PathIndex = 3,
@@ -30,7 +30,7 @@ local placements = {
         }
     },
     {
-        time = 32, unit = "unit_rafflesia", slot = "2",
+        time = 35, unit = "unit_rafflesia", slot = "2",
         data = {
             Valid = true,
             PathIndex = 3,
@@ -41,7 +41,7 @@ local placements = {
         }
     },
     {
-        time = 45, unit = "unit_rafflesia", slot = "2",
+        time = 49, unit = "unit_rafflesia", slot = "2",
         data = {
             Valid = true,
             PathIndex = 1,
@@ -52,7 +52,7 @@ local placements = {
         }
     },
     {
-        time = 62, unit = "unit_rafflesia", slot = "2",
+        time = 66, unit = "unit_rafflesia", slot = "2",
         data = {
             Valid = true,
             PathIndex = 2,
