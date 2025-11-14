@@ -19,7 +19,7 @@ remotes.ChangeTickSpeed:InvokeServer(3)
 local difficulty = "dif_impossible"
 local placements = {
     {
-        time = 27, unit = "unit_lawnmower", slot = "1",
+        time = 32, unit = "unit_lawnmower", slot = "1",
         data = {
             Valid = true,
             PathIndex = 3,
